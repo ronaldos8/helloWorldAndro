@@ -1,0 +1,8 @@
+{
+  "name": "KalkulatorUang",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "62e04fe2"
+}
